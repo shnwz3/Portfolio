@@ -9,7 +9,7 @@
 <div align="center">
 
 
-<a href="www.linkedin.com/in/shahnawaz-sn2003"> alt="linkedin"></a>
+<a href="www.linkedin.com/in/shahnawaz-sn2003"> </a>
 
 </div>
 
